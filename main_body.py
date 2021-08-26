@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-
-Spyder Editor
-
-This is a temporary script file.
-"""
 import xarray as xr
 import matplotlib.pyplot as plt
 import numpy
